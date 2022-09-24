@@ -854,7 +854,7 @@ MEDIA QUERIES CSS (SMALL DEVICES)
 
     .logobar {
         padding      : 0.5rem;
-        gap          : 5rem;
+        gap          : 4rem;
         font-size    : 0.8rem;
         background   : var(--color-bg);
         border-bottom: 0.5px solid var(--color-white);
